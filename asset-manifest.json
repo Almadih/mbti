@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/static/js/main.e9e48bd7.js",
+    "static/media/isfp-adventurer.svg": "/static/media/isfp-adventurer.7861b466fe7c947ebf51.svg",
+    "static/media/estj-executive.svg": "/static/media/estj-executive.774fb87565f25fbf283c.svg",
+    "static/media/istp-virtuoso.svg": "/static/media/istp-virtuoso.55ec3a706f8fb10c3c2b.svg",
+    "static/media/infp-mediator.svg": "/static/media/infp-mediator.6c652a289c86c7e53d14.svg",
+    "static/media/esfp-entertainer.svg": "/static/media/esfp-entertainer.b01bcee945b0ff4abca0.svg",
+    "static/media/esfj-consul.svg": "/static/media/esfj-consul.ac415a6089b964d2a14b.svg",
+    "static/media/estp-entrepreneur.svg": "/static/media/estp-entrepreneur.a0d9eb18fc8ef5bfe858.svg",
+    "static/media/infj-advocate.svg": "/static/media/infj-advocate.b32ba62f3732bd425da8.svg",
+    "static/media/intp-logician.svg": "/static/media/intp-logician.5451d05c5684b4dc0989.svg",
+    "static/media/intj-architect.svg": "/static/media/intj-architect.13bbf1c6df57c1ac93e7.svg",
+    "static/media/istj-logistician.svg": "/static/media/istj-logistician.9658d81d9625ee79b859.svg",
+    "static/media/enfp-campaigner.svg": "/static/media/enfp-campaigner.40ca21d63edc26ecebb9.svg",
+    "static/media/entj-commander.svg": "/static/media/entj-commander.16a0c8f18a355210291c.svg",
+    "static/media/enfj-protagonist.svg": "/static/media/enfj-protagonist.0175849d84cc74caeb2a.svg",
+    "static/media/entp-debater.svg": "/static/media/entp-debater.3f79d8d729bbb4d996f5.svg",
+    "static/media/isfj-defender.svg": "/static/media/isfj-defender.c8e205958606b72efb1a.svg",
+    "index.html": "/index.html",
+    "main.e9e48bd7.js.map": "/static/js/main.e9e48bd7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e9e48bd7.js"
+  ]
+}
